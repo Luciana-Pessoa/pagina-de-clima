@@ -65,7 +65,7 @@ section {
 
 .location strong {
   font-size: 1.4rem;
-  color: #c2bff4;
+  color: #deddec;
 }
 
 .temp {
@@ -93,7 +93,7 @@ section {
 }
 
 .temp .number .maxmin span {
-  color: #c2bff4;
+  color: #e6e5f1;
 }
 
 .celsius {
@@ -163,7 +163,7 @@ h2.title {
   margin-top: 3.2rem;
 
   font-size: 1.8rem;
-  color: #87ebcd;
+  color: #82f0cf;
 }
 
 .air-quality > .number {
